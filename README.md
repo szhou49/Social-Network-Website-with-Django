@@ -10,3 +10,6 @@
 2. Enter the name, email address and password.
 3. Go to `http://127.0.0.1:8000/admin` to log in as Administrator.
 
+# Usage
+1. Go to `http://127.0.0.1:8000` to see your and other people's Dwitters.
+2. You can also post your Dwitters and follow/unfollow other people.
