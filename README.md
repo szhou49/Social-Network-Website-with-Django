@@ -1,4 +1,6 @@
 # Social Network Website with Django
+![Image](img1.png)
+![Image](img2.png)
 
 # Setting Up Environment
 1. Activate a virtual environment by running `venv\Scripts\activate` on the `Windows` terminal. 
