@@ -8,5 +8,5 @@
 # Setting Up Administration
 1. Go to the `social` file and run `python manage.py createsuperuser` to create a new Administrator.
 2. Enter the name, email address and password.
-3. Go to 'http://127.0.0.1:8000/admin' to log in as Administrator.
+3. Go to `http://127.0.0.1:8000/admin` to log in as Administrator.
 
